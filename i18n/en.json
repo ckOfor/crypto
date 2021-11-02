@@ -1,0 +1,11 @@
+{
+	"common": {
+		"appName": "Crypto"
+	},
+	"home": {
+		"yourBalance": " Your balance",
+		"moneyReceived": "Money Received",
+		"income": "Income",
+		"outcome": "Outcome"
+	}
+}
